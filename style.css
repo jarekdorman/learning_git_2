@@ -1,5 +1,13 @@
+* {
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
 .italic {
     font-style: italic;
+    font-weight: bold;
+
 }
 
 .container {
@@ -8,4 +16,8 @@
     border: 2px dotted orange;
     padding: 70px;
     margin-top: 150px; 
+}
+
+h1 {
+    font-weight: bold;
 }
