@@ -4,5 +4,8 @@
 
 .container {
     max-width: 500px;
-    margin: 0 auto;
+    margin:  auto;
+    border: 2px dotted orange;
+    padding: 70px;
+    margin-top: 150px; 
 }
